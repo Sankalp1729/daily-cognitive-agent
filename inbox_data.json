@@ -1,0 +1,105 @@
+[
+  {
+    "id": "email_1",
+    "sender": "blackhole01729@gmail.com",
+    "subject": "URGENT: Action required immediately",
+    "body": "Hi,\n\nThis is an urgent matter that requires your immediate attention. Please respond as soon as possible.\n\nBest regards,\nSupport Team",
+    "timestamp": "2025-08-01T09:45:08.620324",
+    "read": false,
+    "priority": "medium",
+    "attachments": []
+  },
+  {
+    "id": "email_2",
+    "sender": "blackhole01729@gmail.com",
+    "subject": "Question about your recent order",
+    "body": "Hello,\n\nI have a question regarding your recent order #12345. Could you please clarify the delivery address?\n\nThanks,\nCustomer Service",
+    "timestamp": "2025-08-02T01:45:08.733244",
+    "read": false,
+    "priority": "low",
+    "attachments": [
+      "report.xlsx",
+      "presentation.pptx"
+    ]
+  },
+  {
+    "id": "email_3",
+    "sender": "blackhole01729@gmail.com",
+    "subject": "Weekly Newsletter - Latest Updates",
+    "body": "Hi there,\n\nHere's your weekly newsletter with the latest updates and news from our team.\n\nBest regards,\nNewsletter Team",
+    "timestamp": "2025-08-01T23:45:08.765887",
+    "read": false,
+    "priority": "high",
+    "attachments": [
+      "report.xlsx",
+      "presentation.pptx"
+    ]
+  },
+  {
+    "id": "email_4",
+    "sender": "blackhole01729@gmail.com",
+    "subject": "URGENT: Action required immediately",
+    "body": "Hi,\n\nThis is an urgent matter that requires your immediate attention. Please respond as soon as possible.\n\nBest regards,\nSupport Team",
+    "timestamp": "2025-08-01T04:45:08.799843",
+    "read": false,
+    "priority": "medium",
+    "attachments": [
+      "document.pdf"
+    ]
+  },
+  {
+    "id": "email_5",
+    "sender": "blackhole01729@gmail.com",
+    "subject": "Question about your recent order",
+    "body": "Hello,\n\nI have a question regarding your recent order #12345. Could you please clarify the delivery address?\n\nThanks,\nCustomer Service",
+    "timestamp": "2025-08-01T19:45:08.851759",
+    "read": false,
+    "priority": "high",
+    "attachments": []
+  },
+  {
+    "id": "email_6",
+    "sender": "john.doe@company.com",
+    "subject": "Password reset request",
+    "body": "Good morning,\n\nWe need your input on the upcoming budget planning session. Your expertise would be valuable.\n\nRegards,\nDavid Brown",
+    "timestamp": "2025-08-01T14:45:08.918109",
+    "read": false,
+    "priority": "low",
+    "attachments": []
+  },
+  {
+    "id": "email_7",
+    "sender": "sarah.smith@business.org",
+    "subject": "ASAP: Server maintenance",
+    "body": "Hello,\n\nThe quarterly results are in and they look promising. I've attached the detailed report for your review.\n\nThanks,\nSarah Smith",
+    "timestamp": "2025-08-01T15:45:08.969518",
+    "read": false,
+    "priority": "medium",
+    "attachments": [
+      "document.pdf"
+    ]
+  },
+  {
+    "id": "email_8",
+    "sender": "mike.wilson@startup.io",
+    "subject": "Job application status",
+    "body": "Dear team,\n\nThe new software update is ready for testing. Please let me know if you encounter any issues.\n\nSincerely,\nJames Lee",
+    "timestamp": "2025-08-01T15:45:09.055179",
+    "read": false,
+    "priority": "medium",
+    "attachments": [
+      "report.xlsx",
+      "presentation.pptx"
+    ]
+  },
+  {
+    "id": "email_9",
+    "sender": "lisa.chen@techcorp.com",
+    "subject": "Monthly newsletter",
+    "body": "Good morning,\n\nThe monthly metrics are now available. I've highlighted the key performance indicators in the report.\n\nRegards,\nSarah Smith",
+    "timestamp": "2025-08-01T23:45:09.204267",
+    "read": false,
+    "priority": "low",
+    "attachments": []
+  }
+]
